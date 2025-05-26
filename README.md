@@ -53,3 +53,9 @@ I'm **Md Sajid Hossain Khan**, a Computer Science Engineering student at Chittag
 cd client
 npm install
 npm run dev
+
+### Backend (Server)
+```bash
+cd server
+npm install
+npm run dev
