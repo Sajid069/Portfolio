@@ -48,14 +48,12 @@ I'm **Md Sajid Hossain Khan**, a Computer Science Engineering student at Chittag
 
 ## How to Run Locally
 
-### Frontend (Client)
+### Frontend (Client(1-3)) then Backend (Server(4-6))
 
-cd client
-npm install
-npm run dev
+1. cd client
+2. npm install
+3. npm run dev
 
-### Backend (Server)
-
-cd server
-npm install
-npm run dev
+4. cd server
+5. npm install
+6. npm run dev
