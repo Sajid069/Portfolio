@@ -49,13 +49,13 @@ I'm **Md Sajid Hossain Khan**, a Computer Science Engineering student at Chittag
 ## How to Run Locally
 
 ### Frontend (Client)
-```bash
+
 cd client
 npm install
-npm run dev```
+npm run dev
 
-Backend (Server)
-```bash
+### Backend (Server)
+
 cd server
 npm install
-npm run dev````
+npm run dev
